@@ -4,7 +4,7 @@
     "hosts" : {},
 
     "default_host" : {
-        "root" : "/media/data/Dev/Node/Node/page"
+        "root" : "../pages"
     }
 
 }
